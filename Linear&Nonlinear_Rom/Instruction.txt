@@ -1,0 +1,2 @@
+1. For Linear ROM : Run SUB_ID_MAIN.m first then INPUT_VAR.m 
+2. For Non-Linear ROM:  Nonlinear_ROM.py , Data used : Three_Dim.csv
