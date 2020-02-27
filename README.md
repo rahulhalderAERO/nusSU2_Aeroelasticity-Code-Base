@@ -11,3 +11,13 @@
 3.	Following figure shows the schematic of the implementation procedure to facilitate the modal displacements in SU2 environment. As demonstrated in the figure, *__the coefficients from the polynomial interpolation in MATLAB platform  are conveyed to the two separate sections in the SU2 code base__*,  namely as the grid movement solver and the solver which deals with the computation of the aerodynamic load for assuring generalized displacement and computation of the generalised aerodynamic forces, respectively.
 
 <img width="495" alt="Implementation_Modal_Analysis_SU2" src="https://user-images.githubusercontent.com/46704607/75430769-c42d1500-5986-11ea-831d-7f8181531d51.PNG">
+
+## •	Linear and Nonlinear Reduced Order Model 
+Subspace Identification based linear reduced order model and Deep Learning based Nonlinear Reduced Order Model is computed using the structural interaction and generalized aerodynamic forces. The __MATLAB__ and *__Python__* based codes are included in the link. 
+
+## •	__Files included in the GitHub
+
+1.	__SU2-5.0.0 codes :__ General SU2-5.0.0 codes downloaded from SU2 websites. 
+2.	__Modified Codes :__ The codes that has been modified.
+3.	__Python and MATLAB codes for the ROM development:__ The Python and MATLAB code written for the generation of the linear and nonlinear reduced order model. 
+4.	__Structural Modes:__ The structural Modes from NASTRAN are computed.  
