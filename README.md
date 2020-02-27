@@ -10,4 +10,4 @@
 2.	The Pressure forces over the wing surface is coded in  solver_direct_mean.cpp. The function inside the code *__CEulerSolver::Pressure_Forces__* is modified to compute the generalized aerodynamic force. 
 3.	Following figure shows the schematic of the implementation procedure to facilitate the modal displacements in SU2 environment. As demonstrated in the figure, *__the coefficients from the polynomial interpolation in MATLAB platform  are conveyed to the two separate sections in the SU2 code base__*,  namely as the grid movement solver and the solver which deals with the computation of the aerodynamic load for assuring generalized displacement and computation of the generalised aerodynamic forces, respectively.
 
-![](Implementation_Modal_Analysis_SU2.png)
+<img width="495" alt="Implementation_Modal_Analysis_SU2" src="https://user-images.githubusercontent.com/46704607/75430769-c42d1500-5986-11ea-831d-7f8181531d51.PNG">
