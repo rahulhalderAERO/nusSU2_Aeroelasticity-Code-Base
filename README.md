@@ -17,6 +17,8 @@
 
 Fifth Order Polynomial Interpolation Maps Stuctural Mesh designed in NASTRAN and Fluid Mesh in SU2 outlined in the following figure.
 
+<img width="348" alt="Surface_Mesh_SU2_NASTRAN" src="https://user-images.githubusercontent.com/46704607/75432789-ee340680-5989-11ea-8809-1d17a4bcd219.PNG">
+
 ## •	Linear and Nonlinear Reduced Order Model 
 Subspace Identification based linear reduced order model and Deep Learning based Nonlinear Reduced Order Model is computed using the structural interaction and generalized aerodynamic forces. The __MATLAB__ and *__Python__* based codes are included in the link. 
 
