@@ -15,7 +15,7 @@
 ## •	Linear and Nonlinear Reduced Order Model 
 Subspace Identification based linear reduced order model and Deep Learning based Nonlinear Reduced Order Model is computed using the structural interaction and generalized aerodynamic forces. The __MATLAB__ and *__Python__* based codes are included in the link. 
 
-## •	__Files included in the GitHub
+## •  Files included in the GitHub
 
 1.	__SU2-5.0.0 codes :__ General SU2-5.0.0 codes downloaded from SU2 websites. 
 2.	__Modified Codes :__ The codes that has been modified.
