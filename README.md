@@ -15,7 +15,7 @@
 
 <img width="495" alt="Implementation_Modal_Analysis_SU2" src="https://user-images.githubusercontent.com/46704607/75430769-c42d1500-5986-11ea-831d-7f8181531d51.PNG">
 
-Fifth Order Polynomial Interpolation Maps Stuctural Mesh designed in NASTRAN and Fluid Mesh in SU2 outlined in the following figure.
+Fifth order polynomial interpolation maps stuctural mesh designed in NASTRAN and fluid mesh in SU2 outlined in the following figure.
 
 <img width="348" alt="Surface_Mesh_SU2_NASTRAN" src="https://user-images.githubusercontent.com/46704607/75432789-ee340680-5989-11ea-8809-1d17a4bcd219.PNG">
 
