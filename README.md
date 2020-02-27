@@ -3,6 +3,9 @@
 ## •	Major Requirements for the Modal Analysis Platform in Aeroelastic Computation
 
 1.	The structural modes from the linear structural equation are first computed from a FEA solver (i.e. NASTRAN) . 
+
+<img width="415" alt="Structural_Modes" src="https://user-images.githubusercontent.com/46704607/75431462-d8bddd00-5987-11ea-8077-1b73fa009761.PNG">
+
 2.	White noise signal /Signal consisting of sinusoids of different amplitude and frequency  is generated is for the excitation of the   aerodynamic solver in all the computed structural modal direction. 
 
 ## •	Changes in the SU2 code structure:
