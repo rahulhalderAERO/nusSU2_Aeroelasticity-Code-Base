@@ -27,4 +27,3 @@ Subspace Identification based linear reduced order model and Deep Learning based
 1.	__SU2-5.0.0 codes :__ General SU2-5.0.0 codes downloaded from SU2 websites. 
 2.	__Modified Codes :__ The codes that has been modified.
 3.	__Python and MATLAB codes for the ROM development:__ The Python and MATLAB code written for the generation of the linear and nonlinear reduced order model. 
-4.	__Structural Modes:__ The structural Modes from NASTRAN are computed.  
