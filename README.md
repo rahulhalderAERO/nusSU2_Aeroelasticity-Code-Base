@@ -1,4 +1,4 @@
-# Implementation of the Modal Analysis platform for the Aeroelastic Computation
+# Implementation of the Modal Analysis Platform for the Aeroelastic Computation
 
 ## •	Major Requirements for the Modal Analysis Platform in Aeroelastic Computation
 
