@@ -22,7 +22,7 @@ Fifth order polynomial interpolation maps stuctural mesh designed in NASTRAN and
 <img width="348" alt="Surface_Mesh_SU2_NASTRAN" src="https://user-images.githubusercontent.com/46704607/75432789-ee340680-5989-11ea-8809-1d17a4bcd219.PNG">
 
 ## •	Linear and Nonlinear Reduced Order Model 
-Subspace Identification based linear reduced order model and Deep Learning based Nonlinear Reduced Order Model is computed using the structural interaction and generalized aerodynamic forces. The __MATLAB__ and *__Python__* based codes are included in the link. 
+Subspace Identification based linear reduced order model and Deep Learning based Nonlinear Reduced Order Model is computed using the structural interaction and generalized aerodynamic forces. The __MATLAB__ and *__Python__* based codes are included in the link. The following figure  shows the linear and nonlinear reduced-order computation of the first generalized aerodynamic force under the excitation of the first bending mode. 
 
 ## •  Files included in the GitHub
 
