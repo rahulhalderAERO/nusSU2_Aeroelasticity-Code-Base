@@ -6,6 +6,8 @@
 
 <img width="415" alt="Structural_Modes" src="https://user-images.githubusercontent.com/46704607/75431462-d8bddd00-5987-11ea-8077-1b73fa009761.PNG">
 
+<img width="446" alt="Implementation_SU2" src="https://user-images.githubusercontent.com/46704607/75521548-f7cd7500-5a42-11ea-98c3-264365907f34.PNG">
+
 2.	White noise signals /Signals consisting of sinusoids of different amplitude and frequency  are generated  for the excitation of the   aerodynamic solver in all the computed structural modal directions. 
 
 ## •	Changes in the SU2 code structure:
