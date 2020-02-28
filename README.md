@@ -24,6 +24,8 @@ Fifth order polynomial interpolation maps stuctural mesh designed in NASTRAN and
 ## •	Linear and Nonlinear Reduced Order Model 
 Subspace Identification based linear reduced order model and Deep Learning based Nonlinear Reduced Order Model is computed using the structural interaction and generalized aerodynamic forces. The __MATLAB__ and *__Python__* based codes are included in the link. The following figure  shows the linear and nonlinear reduced-order computation of the first generalized aerodynamic force under the excitation of the first bending mode. 
 
+<img width="451" alt="Results" src="https://user-images.githubusercontent.com/46704607/75521921-b38ea480-5a43-11ea-874b-5f54ace3050e.PNG">
+
 ## •  Files included in the GitHub
 
 1.	__SU2-5.0.0 codes :__ General SU2-5.0.0 codes downloaded from SU2 websites. Two folders namely SU2_CFD and Common are pulled here which include __src/solver_direct_mean.cpp__ and __src/grid_movement_structure.cpp__ respectively. These two .cpp files need to be modified with the updated .cpp files mentioned in the __Changed_Code_Random_Excitation__ and __Changed_Code_Sinusoidal_Excitation__ folders. 
